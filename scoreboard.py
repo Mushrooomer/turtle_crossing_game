@@ -21,3 +21,4 @@ class Scoreboard(Turtle):
 
 
 
+    def game_over(self):
